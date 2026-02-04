@@ -8,3 +8,6 @@ Welcome to the Quality Management System training. In this module, we'll cover t
 Here's a quick look at our training topics. We'll start by defining the QMS and why we need it, and then we'll share the CivicActions Quality Policy and Objectives. We'll share a current update on the impplementation status and how you can prepare for an audit. Lastly, we'll talk about what we expect from you and what our next steps are toward certification. 
 
 Let's get started!
+## Why a QMS?
+Quality isn't about getting lucky, and ISO 9001 isn't just about certification. It's about growing with intent, planning, learning, and readjusting along the way. The phrase that captures the spriti of this effort is:
+> "This is how we do good work, consistently."
