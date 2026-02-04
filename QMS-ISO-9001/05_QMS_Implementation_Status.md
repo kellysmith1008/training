@@ -1,1 +1,0 @@
-# QMS Implementation Status
