@@ -1,1 +1,0 @@
-# CivicActions Quality Policy
