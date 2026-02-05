@@ -36,26 +36,29 @@ Implemented starting in 2026, this was part of our "Glow-up 2026" campaign; an e
 ## Midpoint Review
 Let's take a moment to review what we've covered up to this point. Select the correct answer for the next few questions.
 
-- Question 1: What is ISO 9001?
-    - [( )] A prescriptive checklist that cannot be changed
-    - [(x)] A framework for consistent quality delivery
-    - [( )] Work we have to do so we can say we've done it
-    - [( )] A rigid framework that focuses on processes over outcomes
+### Midpoint question 1 
+What is ISO 9001?
+[( )] A prescriptive checklist that cannot be changed
+[(x)] A framework for consistent quality delivery
+[( )] Work we have to do so we can say we've done it
+[( )] A rigid framework that focuses on processes over outcomes
 
-- Question 2: What is a Quality Management System?
-    - [( )] A guideline on how to define quality
-    - [( )] A framework for consistent quality delivery
-    - [(x)] A collection of plicies, procedures, feedback lopps, and metrics
-    - [( )] A framework that applies only to our delivery teams
+### Midpoint question 2
+What is a Quality Management System?
+[( )] A guideline on how to define quality
+[( )] A framework for consistent quality delivery
+[(x)] A collection of plicies, procedures, feedback lopps, and metrics
+[( )] A framework that applies only to our delivery teams
 
-- Question 3: The QMS operates on the Continual Improvement Cycle, or PDCA. What does PDCA stand for? (select all that apply)
-    - [[ ]] Activate
-    - [[x]] Do
-    - [[x]] Check
-    - [[ ]] Prioritize
-    - [[x]] Plan
-    - [[ ]] Consistency
-    - [[x]] Act
+### Midpoint question 3
+The QMS operates on the Continual Improvement Cycle, or PDCA. What does PDCA stand for? (select all that apply)
+[[ ]] Activate
+[[x]] Do
+[[x]] Check
+[[ ]] Prioritize
+[[x]] Plan
+[[ ]] Consistency
+[[x]] Act
 
 
 
