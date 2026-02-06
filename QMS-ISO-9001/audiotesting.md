@@ -1,5 +1,5 @@
 ## Overview
-?[overview](a1b6fa037ff114eb9ea079c8417810053366cb7f.webm)
+?[Voice.ai-recording (2).webm](https://github.com/user-attachments/assets/9a621c19-1bf9-4f39-91b2-19d2707297f2)
 
 <img width="568" height="312" alt="agenda topics are QMS, quality policy, objectives, updates on implementation, expectations, and next steps" src="https://github.com/user-attachments/assets/591a382f-c7c4-4990-9f3a-6481f31de2c1" />
 
