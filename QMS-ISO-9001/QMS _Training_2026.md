@@ -10,7 +10,6 @@ Welcome to the Quality Management System training. In this module, we'll cover t
 
                     {{Narrator |>}}
 Here's a quick look at our training topics. We'll start by defining the Quality Management System and explaining why we need it, then share the CivicActions Quality Policy and Objectives. We'll share a current update on the implementation status and how you can prepare for an audit. Lastly, we'll discuss what we expect from you and our next steps toward certification. 
-
 Let's get started!
 
 ## The importance of ISO 9001 and QMS 
@@ -166,15 +165,16 @@ The audit is a review of our QMS documentation and procedures. The auditor will 
 <img width="558" height="307" alt="What's expected of everyone." src="https://github.com/user-attachments/assets/4b51d479-93f0-4bb7-ac94-f7fd0749c703" />
 
                     {{Narrator |>}}
-Simply put, everyone at CivicActions needs to know our Quality Policy and our Quality Objectives, and where to find the QMS in Confluence. You need to understand your role in the process and actively contribute to continual improvement by participating in feedback and training. 
+So how does all of this impact you? What are your responsibilities? Simply put, everyone at CivicActions needs to know our Quality Policy and our Quality Objectives, and where to find the QMS in Confluence. You need to understand your role in the process and actively contribute to continual improvement by participating in feedback and training. 
 
 ### Certification
 <img width="565" height="307" alt="The roadmap to certification." src="https://github.com/user-attachments/assets/4ea2dd45-a472-443b-88d8-c126d8ec4d83" />
 
                     {{Narrator |>}}
-This is our roadmap to certification. WE'll finalize objectives and metrics in Q1, followed by an internal audit. After addressing those findings, we'll engage the external auditor for the Stage 1 and Stage 2 audits, aiming to achieve ISO 9001 certification by Q2.
+This is our roadmap to certification. We'll finalize objectives and metrics in Q1, followed by an internal audit. After addressing those findings, we'll engage the external auditor for the Stage 1 and Stage 2 audits, aiming to achieve ISO 9001 certification by Q2.
 
 ## Checkpoint quiz
+                    {{Narrator |>}}
 Let's take a moment to review what we've covered so far. Select the correct answer for the next few questions
 
 ### 7. Who's responsible for quality at CivicActions?
