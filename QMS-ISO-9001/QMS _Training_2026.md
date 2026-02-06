@@ -42,7 +42,7 @@ The QMS operates on the Continual Improvement Cycle, often referred to as the PD
                     {{Narrator |>}}
 Implemented starting in 2026, this was part of our "Glow-up 2026" campaign; an effort to signal our maturity in professional services. By putting these intentional structures in place, we build our reputation, create scalable process that grow with us, and formalize our commitment to continual improvement. 
 
-## Midpoint Review
+## Checkpoint quiz
                     {{Narrator |>}}
 Let's take a moment to review what we've covered up to this point. Select the correct answer for the next few questions.
 
@@ -58,7 +58,7 @@ Let's take a moment to review what we've covered up to this point. Select the co
 - [(X)] A collection of policies, procedures, feedback loops, and metrics
 - [( )] A framework that applies only to our delivery teams
 
-### 3. The QMS operates on the Continual Improvement Cycle, which is made up of four steps. What are the four steps? 
+### 3. The QMS operates on the Continual Improvement Cycle, which is made up of four steps. What are the four steps? (select all that apply)
 \* hint, think PDCA
 - [[ ]] Activate
 - [[X]] Do
@@ -68,23 +68,127 @@ Let's take a moment to review what we've covered up to this point. Select the co
 - [[ ]] Consistency
 - [[X]] Act
 
+### 4. Where can you find the CivicActions CMS?
+- [( )] Github
+- [( )] Jira
+- [( )] Google Drive
+- [(X)] Confluence
+
 ## CivicActions Quality Policy
-<img width="567" height="306" alt="CivicActions Quality Policy title slide" src="https://github.com/user-attachments/assets/0766157e-5b7f-41a9-b5c4-5e56861a0cf0" />
-
-                    {{Narrator |>}}
-Let's talk about our Quality Policy so we are all familiar with it. Remember, this quality policy applies to everyone at CivicActions, so it's important that we all know what it is and we understand it. 
-
-### O<img width="560" height="264" alt="image" src="https://github.com/user-attachments/assets/b0ed5eda-ab8d-4090-b601-993decc7f225" />
-ur quality policy
-
+<img width="558" height="309" alt="CivicActions quality policy" src="https://github.com/user-attachments/assets/555af56c-2a23-4704-955e-c272b20c296d" />
+ 
                     {{Narrator |>}}
 "CivicActions **partners** with government agencies to make a **positive impact** by creating **human-centered services** that are **accessible to everyone**. CivicActions' commitment to quality means not only meeting customer expectations and complying with all necessary requirements, but also exceeding quality expectations through **company culture, continual improvement**, and **free and open technologies**. Let's break this down some more, and take the policy from promotion to practice.
 
 ### What the policy means in practice
-<img width="555" height="257" alt="image" src="https://github.com/user-attachments/assets/ff098cca-a6c0-4e6e-9408-e0223bb1556a" />
+<img width="556" height="258" alt="a quality policy checklist" src="https://github.com/user-attachments/assets/59175da3-2a70-4cea-a4ee-d4db645b09e1" />
 
                     {{Narrator |>}}
 In practice, the policy drives our measurable goals, guides our key processes, and helps us identiy areas for growth. Most importantly, it builds a culture of quality that aligns with our core values and guides every decision we make.
 
+## CivicActions Quality Objectives
+<img width="556" height="258" alt="A woman showing our 7 quality objectives on a clipboard" src="https://github.com/user-attachments/assets/b2b5e01b-c058-42f4-9ada-f52d35122945" />
 
+                    {{Narrator |>}}
+Our quality objectives focus on seven key areas: Partnering, Positive Impact, Human-Centered Design, Accessible to Everyone, Company Culture, Free and Open Technologies, and Continual Improvement. We'll review our performance against these objectives each year. Let's take a deeper look at each of these objectives.
 
+### Partnering
+<img width="560" height="291" alt="We intentionally assess the alignment of all our partners." src="https://github.com/user-attachments/assets/796aff50-97df-45b6-bc8f-d1191cc4b4e0" />
+
+                    {{Narrator |>}}
+Starting with partnering, our objective is to intentionally assess the alignment of all our partners. We want to work with those who share our values and quality expectations. This is done through our new Key Process, the Partner Criteria. This criteria is how we will measure the assessment of new partners, completion off annual reviews, and tracking partner ratings.
+
+### Positive impact
+<img width="547" height="292" alt="We track impact across the project life cycle." src="https://github.com/user-attachments/assets/5288da39-aafa-4006-8dfc-e76db0e574e4" />
+
+                    {{Narrator |>}}
+For positive impact, we track impacts across the entire project life cycle to ensure our work meaningfully improves public outcomes. We apply Impact Criteria to new opportunities, tracking impact at key milestones, and including impact reflection in all retrospectives.
+
+### Human-centered design
+<img width="553" height="305" alt="We maintain human-centered experiences by using best practices and industry standards." src="https://github.com/user-attachments/assets/3aefd28b-59c7-4719-b0f6-cf63a9be1422" />
+
+                    {{Narrator |>}}
+Our objective for human-centered design is to maintain best practices to build services centered on real user needs. This is supported by Competency and training. We measure this through HCD training completion rates and tracking HCD practices in our delivery work. 
+
+### Accessible to everyone
+<img width="556" height="296" alt="We seek to continually improve our accessiblity practice, building on industry standards." src="https://github.com/user-attachments/assets/a8e064e8-66da-4e24-bd1f-3f93b3e21f30" />
+
+                    {{Narrator |>}}
+Similarly, we aim to continually improve our accessibility practice to build inclusive services by default. This is also supported by Competency and training. Our measures include accessibility training completion and continuous improvement against industry standards.
+
+### Company culture
+<img width="565" height="308" alt="Fostering a company culture defined by openness, balance, and care." src="https://github.com/user-attachments/assets/de8d59fd-7675-4910-b75b-0753bcc291a2" />
+
+                    {{Narrator |>}}
+Our strongest resources is our people power. Our company culture is defined by openness, balance, and care. Having a pulse on how we feel is important to how we delivery quality service. This is supported by our engagement survey. We'll measure participation, analyze trends, and track action items from your feedback. 
+
+### Free and open technologies
+<img width="560" height="315" alt="We delivery free and open source solutions for our clients." src="https://github.com/user-attachments/assets/9471d492-2630-42d1-a0c9-e335a5579392" />
+
+                    {{Narrator |>}}
+Our focus on free and open technologies is part of our secret sauce--to deliver sustainable, open solutions. For our QMS, we'll monitor our contributions to the community as well as license tracking.
+
+### Continual improvement
+<img width="560" height="311" alt="We intentionally improve services based on feedback and experience." src="https://github.com/user-attachments/assets/a47685e2-5881-4415-b16d-f3f29236d719" />
+
+                    {{Narrator |>}}
+Continual improvement is a core requirement of ISO 9001. Our intent is to learn and improve intentionally. In our service delivery, we'll continue to imrpove how we manage client requirements, handle our projects, address feedback, and ensure we capture feedback via project retros to feed the continual improvement cycle. 
+
+## Checkpoint quiz
+                    {{Narrator |>}}
+Let's take a moment to review what we've covered up to this point. Select the correct answer for the next few questions.
+
+### 5. Which of these objectives is a new process coming out of our QMS activities?
+- [(X)] Partner criteria
+- [( )] Impact criteria
+- [( )] FOSS
+- [( )] Human-centered design
+
+### 6. Which of the foollowing are a quality objective?  
+Select all the apply
+- [[X]] Partnering
+- [[X]] Human-centered design
+- [[ ]] Practice area
+- [[X]] Accessible to everyone
+- [[X]] Continual improvement
+- [[X]] Positive impact
+- [[ ]] Negative impact
+- [[X]] Company culture
+- [[X]] Free and open technologies
+
+## What's next
+<img width="558" height="308" alt="What to expect during the audit." src="https://github.com/user-attachments/assets/b783a38b-1e33-48f8-9c2a-47e089c07633" />
+
+                    {{Narrator |>}}
+The audit is a review or our QMS documentation and procedures. The auditor will conduct interview to see how we work, check for consistency in our processes, and test our understanding of quality initiatives. This isn't mean to be a "gotcha" moment, nor is it about perfection or if we make mistakes. The goal is to be honest and transparent.
+
+### Your responsibilities
+<img width="558" height="307" alt="What's expected of everyone." src="https://github.com/user-attachments/assets/4b51d479-93f0-4bb7-ac94-f7fd0749c703" />
+
+                    {{Narrator |>}}
+Simply put, everyone at CivicActions needs to know our Quality Policy and our Quality Objectives, and where to find the QMS in Confluence. You need to understand your role in the process and actively contribute to continual improvement by participating in feedback and training. 
+
+### Certification
+<img width="565" height="307" alt="The roadmap to certification." src="https://github.com/user-attachments/assets/4ea2dd45-a472-443b-88d8-c126d8ec4d83" />
+
+                    {{Narrator |>}}
+This is our roadmap to certification. WE'll finalize objectives and metrics in Q1, followed by an internal audit. After addressing those findings, we'll engage the external auditor for Stae 1 and Stage 2 audits, with the goal of achieving ISO 9001 certification by Q2.
+
+## Checkpoint review
+### 7. Whos' responsible for quality at CivicActions?
+- [( )] Compliance
+- [( )] Leadership
+- [( )] Delivery teams
+- [(X)] Everyone
+
+### 6. What needs to happen before we get ISO certified? 
+Select all the apply
+- [[ ]] All quality objectives metrics are at 100%
+- [[X]] Implement quality objectives
+- [[ ]] Define processes even if there are no metrics or goals
+- [[X]] Conduct an internal audit
+- [[X]] Fix all findings found in the external audit
+
+## Summary
+                    {{Narrator |>}}
+ISO 9001 aligns with how we already work and reflects our core values. Take the lead in building this culture of quality. Continuous improvement will drive our intentional growth. And remember: Quality is everyone's responsibility. Thank you for your participation in our quality objectives!
