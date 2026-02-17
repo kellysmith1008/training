@@ -54,7 +54,7 @@ The Quality Management System, or QMS, is a collection of policies, procedures, 
 ### Why this matters
 ?[whynow.webm](https://github.com/user-attachments/assets/e0b339f4-fc90-4344-9ed6-a28c2786df81)
 
-<img width="223" height="227" alt="ISO certification goal" src="https://github.com/user-attachments/assets/860c2a32-f42b-486e-830c-e0cf3c1ea291" />
+<img width="426" height="448" alt="" src="https://github.com/user-attachments/assets/07e98385-8925-40f7-b6f6-6d101376e3ef" />
 
 Implemented in 2026, this was part of our "Glow-up 2026" campaign; an effort to signal our maturity in professional services. By putting these intentional structures in place, we build our reputation, create scalable processes that grow with us, and formalize our commitment to continual improvement. 
 
